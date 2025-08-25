@@ -9,7 +9,7 @@ Features :
 ✅ Simple, clear answers:
 
 Next Steps :
-Add currency conversion (USD ↔ INR) for fair price comparisons
-Replace in-memory vector store with FAISS / Pinecone for scalability
-Add filtering by genre / price range
-Dockerize for easy deployment
+* Add currency conversion (USD ↔ INR) for fair price comparisons
+ * Replace in-memory vector store with FAISS / Pinecone for scalability
+ * Add filtering by genre / price range
+ * Dockerize for easy deployment
